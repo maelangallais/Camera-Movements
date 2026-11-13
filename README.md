@@ -28,4 +28,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## 🛠️ Details
 
-The project has been created the November 1 of 2024.
+The project has been created the November 1st of 2024.
