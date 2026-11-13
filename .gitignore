@@ -1,0 +1,10 @@
+# Ignore everything in the Unity project root except Assets and repository metadata
+/*
+!/Assets/
+!/.gitignore
+!/LICENSE
+!/README.md
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
