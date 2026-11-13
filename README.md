@@ -4,8 +4,8 @@ A lightweight Unity prototype demonstrating smooth camera pathing and orientatio
 
 ## 📂 Scripts Included
 
-- `Assets/Scripts/CameraMoves.cs` *(Created November 1, 2024)* — Computes camera position and rotation along the spline path over time.
-- `Assets/Scripts/CreateAnchorPoints.cs` *(Created November 1, 2024)* — Instantiates invisible anchor point markers in the scene from a `Vector3[]` array.
+- `Assets/Scripts/CameraMoves.cs` — Computes camera position and rotation along the spline path over time.
+- `Assets/Scripts/CreateAnchorPoints.cs` — Instantiates invisible anchor point markers in the scene from a `Vector3[]` array.
 
 ## ⚙️ Technical Specs
 
@@ -25,3 +25,7 @@ A lightweight Unity prototype demonstrating smooth camera pathing and orientatio
 ## 📄 License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+
+## 🛠️ Details
+
+The project has been created the November 1 of 2024.
